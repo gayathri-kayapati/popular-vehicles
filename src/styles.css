@@ -11,7 +11,7 @@
   font-family: sans-serif;
   background: linear-gradient(var(--primary-blue), var(--secondary-blue));
   text-align: center;
-  max-width: 900px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 60px;
 }
@@ -32,8 +32,8 @@ button:active {
   background-color: white;
   box-shadow: 0 15px 30px 1px grey;
   border-radius: 5px;
-  height: 220px;
-  width: 900px;
+  height: 280px;
+  width: 1200px;
   padding: 20px;
   margin: 20px;
 }
